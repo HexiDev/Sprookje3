@@ -1,4 +1,3 @@
-Er was eens een Super Hond. en hij kan vliegen!
 Er was eens een Super Hond. hij kon vliegen en was super sterk. hij had ook lezer ogen.
 Toen stortte hij neer.
 Er was eens een Super Hond. 
