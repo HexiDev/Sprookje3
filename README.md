@@ -4,6 +4,6 @@ Hij had ook lezer ogen.
 hij redde een andere hond. 
 dit was erg bijzonder.
 hij stopte een meteoriet.
-mart is heel strerk.
+mart is heel slap.
 
 En ze leefden nog lang en gelukkig.
