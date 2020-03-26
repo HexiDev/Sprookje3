@@ -17,7 +17,7 @@ hij stopte een meteoriet.
 en iedereen was blij.
 >>>>>>> 233acde81fd391fd01da7b6f3c2ea6738986dc86
 =======
-mart is heel slap.
+mart is heel sterk.
 
 >>>>>>> cb335e689471ce6974645675cfb73f19016be064
 En ze leefden nog lang en gelukkig.
