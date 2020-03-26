@@ -1,6 +1,3 @@
-Er was eens een Super Hond.
-
-En een super kat.
+Er was eens een Super Hond. hij kon vliegen.
 
 En ze leefden nog lang en gelukkig.
-
