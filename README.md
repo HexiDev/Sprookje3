@@ -4,4 +4,5 @@ Hij had ook lezer ogen.
 hij redde een andere hond. 
 Dit was erg bijzonder.
 
+Hij redde de situatie.
 En ze leefden nog lang en gelukkig.
