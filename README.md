@@ -2,7 +2,7 @@ void setup()
 
 {
 
-  size(400,400);
+  size(255,255);
 
 }
 
