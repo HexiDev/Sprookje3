@@ -20,4 +20,4 @@ void draw()
 
 }
 
-  Dit maakt bolletjes met vershilende kleuren als je naar een ander X Y axis gaat
+  Dit maakt bolletjes met verschillende kleuren als je naar een ander X Y axis gaat
