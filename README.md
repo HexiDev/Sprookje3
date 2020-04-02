@@ -1,12 +1,12 @@
-Er was eens een Super Hond. hij kon vliegen en was super sterk. hij had ook lezer ogen.
-Toen stortte hij neer.
-Er was eens een Super Hond. 
-Hij kon vliegen en was super sterk. 
-Hij had ook lezer ogen. 
-hij redde een andere hond. 
-dit was erg bijzonder.
-hij stopte een meteoriet.
-en iedereen was blij.
-mart is heel sterk.
-
-Test
+void setup()
+{
+  size(400,400);
+}
+void draw()
+{
+  fill(mouseX, mouseY, mouseX + mouseY);
+  ellipse(mouseX, mouseY, 5, 10);
+  fill(mouseX, mouseY, 255);
+  ellipse(mouseX, mouseY, 50, 50);
+}
+  Dit maakt bolletjes met vershilende kleuren als je naar een ander X Y axis gaat
